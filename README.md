@@ -19,5 +19,7 @@ Setup instructions
 I forget what they are right now
 
 Running manually
+
 To run the script manually, do the setup above, and execute './S99test_speeds.sh start' 
+
 To stop it, run './S99test_speeds.sh stop' (just kills the process)}
