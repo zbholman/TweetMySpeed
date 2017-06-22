@@ -11,6 +11,7 @@ Setup instructions
 3. edit S99test_speeds.sh
 
 	a. Change OUTPUT_DIR to a directory where you want the data to be stored
+	
 	b. Change TWEET_TOOL to the location of the tweet_tool.sh (should be in repo)
 
 4. Move/copy S99test_speeds.sh to /usr/local/etc/rc.d/S99test_speeds.sh (this executes the script at startup)
