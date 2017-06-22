@@ -19,4 +19,4 @@ Setup instructions\
 \
 Running manually\
 To run the script manually, do the setup above, and execute \'91./S99test_speeds.sh start\'92 \
-To stop it, run \'91./S99test_speeds.sh stop\'92 (just kills the process)}
+To stop it, run \'91./S99test_speeds.sh stop\'92 (just kills the process)}# TweetMySpeed
