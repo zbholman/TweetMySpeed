@@ -1,11 +1,6 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+#TweetMySpeed
 
-\f0\fs24 \cf0 Sorry for the incomplete instructions, I slowly added to the script and didn\'92t record everything I did and do not have internet access at the moment to go through and do a complete setup from scratch. If enough people have interest I\'92ll add the complete setup instructions and try to simplify if needed.\
+Sorry for the incomplete instructions, I slowly added to the script and didn\'92t record everything I did and do not have internet access at the moment to go through and do a complete setup from scratch. If enough people have interest I\'92ll add the complete setup instructions and try to simplify if needed.\
 \
 Setup instructions\
 \
@@ -19,4 +14,4 @@ Setup instructions\
 \
 Running manually\
 To run the script manually, do the setup above, and execute \'91./S99test_speeds.sh start\'92 \
-To stop it, run \'91./S99test_speeds.sh stop\'92 (just kills the process)}# TweetMySpeed
+To stop it, run \'91./S99test_speeds.sh stop\'92 (just kills the process)}#
